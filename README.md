@@ -1,3 +1,6 @@
+Kevin David Hernandez Tapiero - 202111724 - k.hernandezt
+Juan David Guevara Arevalo -202116875 - jd.guevaraa1
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
